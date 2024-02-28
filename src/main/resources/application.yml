@@ -4,18 +4,13 @@ spring:
     username: sa
     password:
     driver-class-name: org.h2.Driver
-#  datasource:
-#    driver-class-name: com.mysql.cj.jdbc.Driver
-#    username: root
-#    url: jdbc:mysql://localhost:3306/jpashop
-#    password: '12345678'
-
   jpa:
     hibernate:
       ddl-auto: create
     properties:
       hibernate:
         format_sql: 'true'
+    show-sql: true
 
 
 logging.level:
