@@ -1,7 +1,6 @@
 package jpabook.jpashop.Serivce;
 
-import jpabook.jpashop.Repository.ItemRepository;
-import jpabook.jpashop.domain.Item.Book;
+import jpabook.jpashop.repository.ItemRepository;
 import jpabook.jpashop.domain.Item.Item;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
