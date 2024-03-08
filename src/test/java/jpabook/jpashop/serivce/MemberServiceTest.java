@@ -1,4 +1,4 @@
-package jpabook.jpashop.Serivce;
+package jpabook.jpashop.serivce;
 
 import jpabook.jpashop.repository.MemberRepository;
 import jpabook.jpashop.domain.Member;

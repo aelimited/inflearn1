@@ -1,7 +1,7 @@
 package jpabook.jpashop.controller;
 
 import jakarta.validation.Valid;
-import jpabook.jpashop.Serivce.MemberService;
+import jpabook.jpashop.serivce.MemberService;
 import jpabook.jpashop.domain.Address;
 import jpabook.jpashop.domain.Member;
 import lombok.RequiredArgsConstructor;

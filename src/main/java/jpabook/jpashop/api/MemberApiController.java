@@ -1,14 +1,13 @@
 package jpabook.jpashop.api;
 
 import jakarta.validation.Valid;
-import jpabook.jpashop.Serivce.MemberService;
+import jpabook.jpashop.serivce.MemberService;
 import jpabook.jpashop.domain.Member;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
-import javax.xml.transform.Result;
 import java.util.List;
 import java.util.stream.Collectors;
 

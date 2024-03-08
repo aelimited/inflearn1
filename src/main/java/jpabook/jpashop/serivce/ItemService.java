@@ -1,4 +1,4 @@
-package jpabook.jpashop.Serivce;
+package jpabook.jpashop.serivce;
 
 import jpabook.jpashop.repository.ItemRepository;
 import jpabook.jpashop.domain.Item.Item;
